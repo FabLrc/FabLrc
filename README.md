@@ -20,7 +20,7 @@
 - 💼 Full-Stack Developer & Co-founder at **CF Evolution** (web agency)
 - 🌏 Passionate about **AI** and **cryptocurrency** technologies
 - 🚀 Building modern web experiences with cutting-edge technologies
-- 🖥️ **Self-hosting enthusiast**: Running a personal NAS on Ubuntu Server with containerized apps accessible via internet using reverse proxy, Cloudflare tunnels, and custom security configurations
+- 🖥️ **Self-hosting enthusiast**: Running a personal NAS on Ubuntu Server with containerized apps
 
 <br/>
 
